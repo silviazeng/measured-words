@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "measured-words",
+  "description": "分寸 (fencun): a sense of measure for AI writing. Checks the writer's seat and the document's travel before drafting anything another person will read.",
+  "version": "1.0.0",
+  "author": { "name": "Silvia Zeng", "url": "https://github.com/silviazeng" },
+  "homepage": "https://github.com/silviazeng/measured-words",
+  "repository": "https://github.com/silviazeng/measured-words",
+  "license": "MIT",
+  "keywords": ["writing", "editing", "tone", "audience", "professional-communication", "分寸", "claude-skills", "agent-skills"],
+  "skills": ["./"]
+}
