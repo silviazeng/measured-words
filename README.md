@@ -12,6 +12,8 @@ Left alone, an AI draft speaks as a detached analyst who owes the reader nothing
 - **Travel** — the draft is read once more as if forwarded to each person named in it, and the regrettable lines are fixed.
 - **Prose** — written register, concrete over abstract, the thesis stated plainly; hedging is a posture toward the reader's territory, not a house style.
 
+The checks are the method, not the vocabulary: findings come back in plain language, sorted by what the writer has to decide, with the line quoted and located. None of the terms above appear in what the writer reads.
+
 Worked examples (fictional): [references/cases.md](references/cases.md).
 
 ## Install
@@ -50,6 +52,8 @@ Not a flattery filter — generic praise is as naive as generic criticism. Not a
 - **提及各方**：对文中提及的各方，删去评判，保留分析。
 - **传播**：设想此文被转发至文中任何一人，修正会令作者事后追悔的语句。
 - **文字**：书面语，具体胜于空泛，论点直陈；试探语气仅用于涉及读者职权之处，而非全文的默认腔调。
+
+以上是方法，不是术语：反馈须用平实语言写成，按作者需要决断的性质排序，逐条引用原句并标明出处。上述任何一个词都不应出现在作者读到的文字里。
 
 安装方式见上文 Install 一节；手动安装即将 `SKILL.md` 与 `references/` 复制至 `~/.claude/skills/measured-words/`。
 

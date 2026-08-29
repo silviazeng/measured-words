@@ -3,7 +3,7 @@ name: measured-words
 description: "分寸 (fencun) — knowing what your position lets you say, and who else will read it. Run before drafting anything another person will read on the user's behalf: interview slides or talking points, a deck or memo for a company, a message to a hiring manager or an executive, a LinkedIn profile, post, or article, an industry write-up or field guide, a competitive comparison, a cover letter, an outreach DM. Use it whenever a draft names a real company, product, or person, or will be seen by a manager, colleague, customer, or the public, even if the user only asks for slides, a summary, an analysis, or a post and says nothing about tone. 适用于任何将由他人阅读的文字：面试材料、提交给公司的方案、致上级的邮件、LinkedIn、行业分析。It checks the piece has a thesis, then establishes the seat the user writes from and what happens when the document travels. It prevents the default failure of writing as a detached analyst who grades the reader's own products, tells their company what to do, and ranks third parties as winners and losers the user may later face."
 license: MIT
 metadata:
-  version: "1.0.0"
+  version: "1.1.0"
 ---
 
 # measured-words · 分寸
@@ -31,7 +31,7 @@ If any answer is no, fix that first and say so. Polishing the seat of a piece wi
 
 ## Step 1 — Name the seat
 
-Answer four questions briefly, at the top of your thinking:
+Answer four questions briefly, in your own reasoning — not in what you hand back:
 
 - **Reader**: who reads this first? Name the role, and the person if known. "Leadership" is not an answer; "the sales VP who joined two months ago" is.
 - **Seat**: what is the writer to that reader? Candidate, new hire, peer, former investor, vendor, stranger on the internet.
@@ -73,16 +73,7 @@ Blunt analysis has a place: the writer's own eyes. If they asked for the honest 
 
 ## Step 4 — Forward test before delivery
 
-Read the draft once more in the shoes of each name in it — the reader, their boss, each third party — and ask: **if this were forwarded to them, what would the writer regret?** Fix those lines. Then put a short block at the top of the delivered draft so the writer can check the seat you assumed:
-
-```
-Seat check
-Reader: [role / person] · Seat: [what the writer is to them]
-Also likely to see it: [names]
-Adjusted: [one line on what the check changed, or "nothing flagged"]
-```
-
-Four lines. The writer can delete it; it exists so a wrong assumption is visible immediately rather than discovered in the room.
+Read the draft once more in the shoes of each name in it — the reader, their boss, each third party — and ask: **if this were forwarded to them, what would the writer regret?** Fix those lines. Then, under the delivered draft, say in two or three plain sentences who you took the reader to be, who else could end up seeing it, and what that changed. Write it the way you would say it to a colleague — not as labelled fields, and not using the words in this file. It exists so a wrong assumption about the reader is visible immediately rather than discovered in the room; the writer can delete it.
 
 ## The prose itself — baseline standards
 
@@ -92,6 +83,22 @@ The seat checks remove liabilities; they add no quality on their own. Four basel
 - **A spine.** Converting verdicts to questions applies to the reader's territory — their product, their strategy. The writer's own observations and thesis are stated plainly. If every claim in the draft has become a question, the seat check has been over-applied: put the thesis back.
 - **No template phrases.** The wordings in this skill ("I'd want to understand," "one thing I'd test") illustrate a posture, not sentences to copy. Vary the surface. Repeating them verbatim across a draft reads as boilerplate and defeats the sincerity they exist to protect.
 - **Concrete over abstract.** Specific facts, numbers, named mechanisms. A sentence that could appear in any company's document about any product says nothing; cut it or sharpen it.
+
+## Reporting back — the part the user reads
+
+The checks above are your method. They are not vocabulary the user has agreed to learn. Every term in this file — seat, standing, travel, the step numbers, 分寸 itself — stays in your reasoning. "Step 3 flag: fails the show-it-to-their-CEO test" gives the user nothing to act on. "This line says a former employer decided the product wasn't worth fighting for — the person who made that call can recognise themselves in it" gives them everything, and it is the same finding.
+
+Write the report in the user's language, for someone who has never read this skill and never will. If a sentence of yours would need this file to decode, rewrite it. A skill about writing legibly that reports illegibly has failed at its own subject.
+
+**After drafting**, follow Step 4: the draft, then two or three plain sentences on the reader you assumed.
+
+**When reviewing something already written**, sort findings by what the user has to decide, never by which check produced them:
+
+1. **Broken** — factual errors, leftover import artifacts, dead links, things no author would keep on purpose. State them; they need no argument.
+2. **Costly to the writer** — a line naming, or traceable to, a real person or company, where the cost lands on the writer if it travels. Quote the sentence, give its location, name who reads it and what it costs. One flag, one reason.
+3. **Judgment calls** — voice, register, how much of the writer's own life sits on a public page. Give them the trade-off; do not resolve it for them.
+
+Quote the line you are flagging and say where it is. A finding the writer cannot find in their own text is not a finding. Say plainly what passed, too — a review that only lists faults misrepresents the work.
 
 ## What this skill is not
 
