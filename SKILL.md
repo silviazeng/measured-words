@@ -3,7 +3,7 @@ name: measured-words
 description: "分寸 (fencun) — knowing what your position lets you say, and who else will read it. Run before drafting anything another person will read on the user's behalf: interview slides or talking points, a deck or memo for a company, a message to a hiring manager or an executive, a LinkedIn profile, post, or article, an industry write-up or field guide, a competitive comparison, a cover letter, an outreach DM. Use it whenever a draft names a real company, product, or person, or will be seen by a manager, colleague, customer, or the public, even if the user only asks for slides, a summary, an analysis, or a post and says nothing about tone. 适用于任何将由他人阅读的文字：面试材料、提交给公司的方案、致上级的邮件、LinkedIn、行业分析。It checks the piece has a thesis, then establishes the seat the user writes from and what happens when the document travels. It prevents the default failure of writing as a detached analyst who grades the reader's own products, tells their company what to do, and ranks third parties as winners and losers the user may later face."
 license: MIT
 metadata:
-  version: "1.2.0"
+  version: "1.3.0"
 ---
 
 # measured-words · 分寸
@@ -96,6 +96,7 @@ The seat checks remove liabilities; they add no quality on their own. Four basel
 - **A spine.** Converting verdicts to questions applies to the reader's territory — their product, their strategy. The writer's own observations and thesis are stated plainly. If every claim in the draft has become a question, the seat check has been over-applied: put the thesis back.
 - **No template phrases.** The wordings in this skill ("I'd want to understand," "one thing I'd test") illustrate a posture, not sentences to copy. Vary the surface. Repeating them verbatim across a draft reads as boilerplate and defeats the sincerity they exist to protect.
 - **Concrete over abstract.** Specific facts, numbers, named mechanisms. A sentence that could appear in any company's document about any product says nothing; cut it or sharpen it.
+- **Self-contained.** Every term of art, numbered reference and pointer to another document has to be resolvable inside the piece. "Stage three," "the framework from the last review," "as the earlier note set out" — a reader who cannot resolve those is being asked to nod along at something they cannot see, and most will simply stop trusting the passage. Define it where it is used, or cut it. This bites hardest in a series: the day one part is renamed, moved or taken down, every reference to it from the others turns into noise, and nobody goes back to the others to notice. The check is to read the piece as someone holding only this piece — no series, no prior meeting, no author to ask.
 
 ## Reporting back — the part the user reads
 
