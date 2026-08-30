@@ -3,7 +3,7 @@ name: measured-words
 description: "分寸 (fencun) — knowing what your position lets you say, and who else will read it. Run before drafting anything another person will read on the user's behalf: interview slides or talking points, a deck or memo for a company, a message to a hiring manager or an executive, a LinkedIn profile, post, or article, an industry write-up or field guide, a competitive comparison, a cover letter, an outreach DM. Use it whenever a draft names a real company, product, or person, or will be seen by a manager, colleague, customer, or the public, even if the user only asks for slides, a summary, an analysis, or a post and says nothing about tone. 适用于任何将由他人阅读的文字：面试材料、提交给公司的方案、致上级的邮件、LinkedIn、行业分析。It checks the piece has a thesis, then establishes the seat the user writes from and what happens when the document travels. It prevents the default failure of writing as a detached analyst who grades the reader's own products, tells their company what to do, and ranks third parties as winners and losers the user may later face."
 license: MIT
 metadata:
-  version: "1.1.0"
+  version: "1.2.0"
 ---
 
 # measured-words · 分寸
@@ -71,7 +71,20 @@ For every third party the document mentions — competitors, customers, partners
 
 Blunt analysis has a place: the writer's own eyes. If they asked for the honest read, give it clearly labeled as private, in a separate block, and keep the outward-facing document clean. Never let the private read leak into the version that ships.
 
-## Step 4 — Forward test before delivery
+## Step 4 — The frame places people too
+
+Steps 2 and 3 test sentences. A document also places people through things that are not sentences: category names, tiers, section headings, axis and legend labels, and what is listed first or drawn largest. Each of those is a claim about everyone filed under it, and reading the prose will not find any of them.
+
+Run one test over the list Step 1's travel question already produced — the reader, their company, customers, partners, competitors, former employers, anyone drawn into the document at all, whether or not they will ever read it:
+
+**would anyone filed under this label read it as being placed below the others?**
+
+- Yes → name the category after what it is. The distinction almost always survives in the layout — an indent, a separate panel, a border — and only the rank goes. A label that cannot be replaced by a plain name is there to order things, and ordering named parties is the Step 3 verdict moved into a different grammatical position.
+- No → leave it. Upstream and downstream say where something sits in a flow; pilot and rollout say what stage it is at. Neither places anyone below anyone.
+
+This check belongs to neither Step 2 nor Step 3, because a single label can demote the reader and a third party at the same time.
+
+## Step 5 — Forward test before delivery
 
 Read the draft once more in the shoes of each name in it — the reader, their boss, each third party — and ask: **if this were forwarded to them, what would the writer regret?** Fix those lines. Then, under the delivered draft, say in two or three plain sentences who you took the reader to be, who else could end up seeing it, and what that changed. Write it the way you would say it to a colleague — not as labelled fields, and not using the words in this file. It exists so a wrong assumption about the reader is visible immediately rather than discovered in the room; the writer can delete it.
 
@@ -90,7 +103,7 @@ The checks above are your method. They are not vocabulary the user has agreed to
 
 Write the report in the user's language, for someone who has never read this skill and never will. If a sentence of yours would need this file to decode, rewrite it. A skill about writing legibly that reports illegibly has failed at its own subject.
 
-**After drafting**, follow Step 4: the draft, then two or three plain sentences on the reader you assumed.
+**After drafting**, follow Step 5: the draft, then two or three plain sentences on the reader you assumed.
 
 **When reviewing something already written**, sort findings by what the user has to decide, never by which check produced them:
 
@@ -108,4 +121,4 @@ Quote the line you are flagging and say where it is. A finding the writer cannot
 
 ## Reference cases
 
-Read `references/cases.md` when the draft is an interview deck, a company-facing memo, or an industry overview. It holds the two canonical failures this skill exists to catch, with before/after rewrites.
+Read `references/cases.md` when the draft is an interview deck, a company-facing memo, or an industry overview. It holds the three canonical failures this skill exists to catch, with before/after rewrites.

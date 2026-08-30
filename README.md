@@ -9,6 +9,7 @@ Left alone, an AI draft speaks as a detached analyst who owes the reader nothing
 - **Head** — the piece has a thesis, a structure, and an argument; without those, tone-polishing produces polite nonsense.
 - **Seat** — who will read this, what the writer is to them, and what that position gives them standing to say.
 - **Names** — every party the draft mentions is described through analysis, not verdicts.
+- **Frame** — the categories, tiers and headings place people too; nobody the piece files under a label should read it as being put below the others.
 - **Travel** — the draft is read once more as if forwarded to each person named in it, and the regrettable lines are fixed.
 - **Prose** — written register, concrete over abstract, the thesis stated plainly; hedging is a posture toward the reader's territory, not a house style.
 
@@ -50,6 +51,7 @@ Not a flattery filter — generic praise is as naive as generic criticism. Not a
 - **立论**：论点、结构、论据是否完整，有缺则先行补足。
 - **身份**：谁会读到此文，作者以何种身份落笔，该身份允许陈述什么。
 - **提及各方**：对文中提及的各方，删去评判，保留分析。
+- **框架**：分类、层级、标题同样在为各方定位；凡被归入某一标签者，不应读出自己被置于他人之下。
 - **传播**：设想此文被转发至文中任何一人，修正会令作者事后追悔的语句。
 - **文字**：书面语，具体胜于空泛，论点直陈；试探语气仅用于涉及读者职权之处，而非全文的默认腔调。
 

@@ -1,6 +1,6 @@
 # Reference cases
 
-Two fictional cases. The companies, products, and people are invented to illustrate the two failure modes; any resemblance to a real company is coincidence. Each shows the seat that was ignored, why the draft failed (the reader in the room, or the document traveling), and what the corrected version does instead.
+Three fictional cases. The companies, products, and people are invented to illustrate the three failure modes; any resemblance to a real company is coincidence. Each shows the seat that was ignored, why the draft failed (the reader in the room, or the document traveling), and what the corrected version does instead.
 
 ---
 
@@ -56,13 +56,37 @@ Two fictional cases. The companies, products, and people are invented to illustr
 
 ---
 
-## Pattern across both
+---
 
-| | Case 1 (proposal) | Case 2 (field guide) |
-|---|---|---|
-| Failed check | Step 2 — reader's own company | Step 3 — third parties / travel |
-| Voice problem | Outside analyst grading the host | Outside analyst ranking the field |
-| Fix | Asset first, gap as question, recommendation as hypothesis | Structure and trade-offs, verdicts removed |
-| What was kept | All of the analysis | All of the map |
+## Case 3 — The partner map whose legend did the ranking
 
-The analysis was never the problem. The seat was.
+**Situation.** A software company building the ecosystem map for its own partner conference — every company that has shipped an integration, on one slide. The readers are those partners, sitting in the room. Seat: host → guests.
+
+**What the draft did.** Nothing wrong in any sentence. Every partner was described accurately, several warmly. The map sorted them into two bands: **Strategic partners** across the top, **long-tail integrations** in a narrower band below.
+
+**Why it failed.**
+- *Reader in the room:* most of the audience found their own company in the band labelled long-tail, at an event they had paid to attend. No sentence said they mattered less. The legend said it, and the legend is what a room of two hundred people reads first.
+- *Steps 2 and 3 both pass.* Read sentence by sentence there is nothing to flag: no pejorative characterization, no "should," no winner/loser claim, nothing that fails the show-it-to-their-CEO test. The verdict is not in the prose.
+- *Travel:* the ecosystem slide is the one partners screenshot and forward to their own teams. The band a company was put in outlives the conference.
+
+**Before (invented):**
+
+> Legend — **Strategic partners** (upper band) · **Long-tail integrations** (lower band)
+
+**After:**
+
+> Legend — **Co-engineered integrations** (built with our solutions team) · **Self-serve integrations** (built on the public API)
+
+**What changed.** The map is identical: same companies, same two bands, same layout. The names now say what actually differs — how the integration was built — instead of how much each partner is judged to be worth. Nobody is placed below anyone, and the distinction the map exists to draw is still perfectly visible.
+
+## Pattern across the three
+
+| | Case 1 (proposal) | Case 2 (field guide) | Case 3 (partner map) |
+|---|---|---|---|
+| Failed check | Step 2 — reader's own company | Step 3 — third parties / travel | Step 4 — the frame |
+| Where the verdict sat | In the assessment | In the adjectives | In the legend |
+| Voice problem | Outside analyst grading the host | Outside analyst ranking the field | Host ranking its own guests |
+| Fix | Asset first, gap as question, recommendation as hypothesis | Structure and trade-offs, verdicts removed | Bands named for what differs, not for worth |
+| What was kept | All of the analysis | All of the map | All of the map |
+
+The analysis was never the problem. The seat was — and in Case 3 the seat spoke through the legend, where no amount of careful sentence-writing would have found it.
