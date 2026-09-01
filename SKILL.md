@@ -3,7 +3,7 @@ name: measured-words
 description: "分寸 (fencun) — knowing what your position lets you say, and who else will read it. Run before drafting anything another person will read on the user's behalf: interview slides or talking points, a deck or memo for a company, a message to a hiring manager or an executive, a LinkedIn profile, post, or article, an industry write-up or field guide, a competitive comparison, a cover letter, an outreach DM. Use it whenever a draft names a real company, product, or person, or will be seen by a manager, colleague, customer, or the public, even if the user only asks for slides, a summary, an analysis, or a post and says nothing about tone. 适用于任何将由他人阅读的文字：面试材料、提交给公司的方案、致上级的邮件、LinkedIn、行业分析。It checks the piece has a thesis, then establishes the seat the user writes from and what happens when the document travels. It prevents the default failure of writing as a detached analyst who grades the reader's own products, tells their company what to do, and ranks third parties as winners and losers the user may later face."
 license: MIT
 metadata:
-  version: "1.4.0"
+  version: "1.5.0"
 ---
 
 # measured-words · 分寸
@@ -92,7 +92,7 @@ Read the draft once more in the shoes of each name in it — the reader, their b
 
 The seat checks remove liabilities; they add no quality on their own. Four baseline rules keep the surviving text worth reading:
 
-- **Register.** Anything public-facing or professional is written in the written register of its language — no conversational filler, no chat idioms. This applies to every language in the draft; for Chinese, 书面语, not 口语.
+- **Register.** Anything public-facing or professional is written in the written register of its language — no conversational filler, no chat idioms. This applies to every language in the draft; for Chinese, 书面语, not 口语. The rule is easy to state and easy to lose, so three things belong to it. **It survives transport:** text arriving by import, merge or wholesale port has not passed the bar merely by coming from a file — read it, in the language it is written in, before it ships. **It ignores authorship and scope:** a colloquial line someone else wrote, sitting outside the change you were asked to make, is still fixed on sight; leaving it because it was not in scope is how a page drifts one sentence at a time. **It is checkable, so check it:** the last step before publishing is to read what the diff *adds*, in the language it adds it — not only what it does. Look for speech verbs and shrugging constructions（造不了、照常能买、养不起、收回自己手里；"can't really", "ends up", "a bunch of"）. And do not mistake the field's own vocabulary for slang: 玩家 and 打线 are the industry's words, and a live metaphor is not an idiom.
 - **A spine.** Converting verdicts to questions applies to the reader's territory — their product, their strategy. The writer's own observations and thesis are stated plainly. If every claim in the draft has become a question, the seat check has been over-applied: put the thesis back.
 - **No template phrases.** The wordings in this skill ("I'd want to understand," "one thing I'd test") illustrate a posture, not sentences to copy. Vary the surface. Repeating them verbatim across a draft reads as boilerplate and defeats the sincerity they exist to protect.
 - **Concrete over abstract.** Specific facts, numbers, named mechanisms. A sentence that could appear in any company's document about any product says nothing; cut it or sharpen it.

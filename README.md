@@ -11,7 +11,7 @@ Left alone, an AI draft speaks as a detached analyst who owes the reader nothing
 - **Names** — every party the draft mentions is described through analysis, not verdicts.
 - **Frame** — the categories, tiers and headings place people too; nobody the piece files under a label should read it as being put below the others.
 - **Travel** — the draft is read once more as if forwarded to each person named in it, and the regrettable lines are fixed.
-- **Prose** — written register, concrete over abstract, the thesis stated plainly, nothing the reader cannot resolve from the piece in front of them, and nothing that repeats what the piece already shows or has just said; hedging is a posture toward the reader's territory, not a house style.
+- **Prose** — written register, held on sight and across imports, concrete over abstract, the thesis stated plainly, nothing the reader cannot resolve from the piece in front of them, and nothing that repeats what the piece already shows or has just said; hedging is a posture toward the reader's territory, not a house style.
 
 The checks are the method, not the vocabulary: findings come back in plain language, sorted by what the writer has to decide, with the line quoted and located. None of the terms above appear in what the writer reads.
 
@@ -53,7 +53,7 @@ Not a flattery filter — generic praise is as naive as generic criticism. Not a
 - **提及各方**：对文中提及的各方，删去评判，保留分析。
 - **框架**：分类、层级、标题同样在为各方定位；凡被归入某一标签者，不应读出自己被置于他人之下。
 - **传播**：设想此文被转发至文中任何一人，修正会令作者事后追悔的语句。
-- **文字**：书面语，具体胜于空泛，论点直陈，不留读者无从索解之处，亦不复述图中已见、前句已言者；试探语气仅用于涉及读者职权之处，而非全文的默认腔调。
+- **文字**：书面语（凡见即改，搬运进来的文字同样适用），具体胜于空泛，论点直陈，不留读者无从索解之处，亦不复述图中已见、前句已言者；试探语气仅用于涉及读者职权之处，而非全文的默认腔调。
 
 以上是方法，不是术语：反馈须用平实语言写成，按作者需要决断的性质排序，逐条引用原句并标明出处。上述任何一个词都不应出现在作者读到的文字里。
 
