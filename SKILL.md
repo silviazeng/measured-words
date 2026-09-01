@@ -3,7 +3,7 @@ name: measured-words
 description: "分寸 (fencun) — knowing what your position lets you say, and who else will read it. Run before drafting anything another person will read on the user's behalf: interview slides or talking points, a deck or memo for a company, a message to a hiring manager or an executive, a LinkedIn profile, post, or article, an industry write-up or field guide, a competitive comparison, a cover letter, an outreach DM. Use it whenever a draft names a real company, product, or person, or will be seen by a manager, colleague, customer, or the public, even if the user only asks for slides, a summary, an analysis, or a post and says nothing about tone. 适用于任何将由他人阅读的文字：面试材料、提交给公司的方案、致上级的邮件、LinkedIn、行业分析。It checks the piece has a thesis, then establishes the seat the user writes from and what happens when the document travels. It prevents the default failure of writing as a detached analyst who grades the reader's own products, tells their company what to do, and ranks third parties as winners and losers the user may later face."
 license: MIT
 metadata:
-  version: "1.3.0"
+  version: "1.4.0"
 ---
 
 # measured-words · 分寸
@@ -97,6 +97,7 @@ The seat checks remove liabilities; they add no quality on their own. Four basel
 - **No template phrases.** The wordings in this skill ("I'd want to understand," "one thing I'd test") illustrate a posture, not sentences to copy. Vary the surface. Repeating them verbatim across a draft reads as boilerplate and defeats the sincerity they exist to protect.
 - **Concrete over abstract.** Specific facts, numbers, named mechanisms. A sentence that could appear in any company's document about any product says nothing; cut it or sharpen it.
 - **Self-contained.** Every term of art, numbered reference and pointer to another document has to be resolvable inside the piece. "Stage three," "the framework from the last review," "as the earlier note set out" — a reader who cannot resolve those is being asked to nod along at something they cannot see, and most will simply stop trusting the passage. Define it where it is used, or cut it. This bites hardest in a series: the day one part is renamed, moved or taken down, every reference to it from the others turns into noise, and nobody goes back to the others to notice. The check is to read the piece as someone holding only this piece — no series, no prior meeting, no author to ask.
+- **Nothing the artifact already says.** The mirror of the rule above, and the one that keeps coming back. Cut every line that repeats what the reader can already see, or has just read one line earlier. It arrives in four shapes: a caption narrating what the drawing shows ("flows left to right", when the arrows are drawn); a legend entry for a mark that already carries its own label; a note that opens by restating its own heading; and a note defending against an objection nobody has raised — "this is not an omission," "this is deliberate," "to be clear." Same test each time: name what is genuinely invisible — an encoding, a rule, a pointer out of the piece — and write only that. And cut rather than shorten: a redundant line trimmed by half still teaches the reader to skim, and the two things they could not have known get skimmed along with it.
 
 ## Reporting back — the part the user reads
 
